@@ -14,7 +14,10 @@ header{
     display: flex;
     justify-content: flex-end;
 }
-
+.footer{
+    color: #ffff;
+    text-align: center;
+}
 .overview{
     background-color: #fff;
     position: absolute;
